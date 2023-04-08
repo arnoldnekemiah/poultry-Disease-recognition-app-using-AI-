@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Poultry disease identifier</string>
+    <string name="upload_image_from_gallery">upload image from gallery</string>
+    <string name="take_photo">take photo</string>
+    <string name="classified_as">classified as</string>
+    <string name="confidences">confidences</string>
+    <string name="poultry_disease_recognition_and_vaccination_scheduling_application">poultry disease recognition and vaccination scheduling application</string>
+    <string name="check_for_chicken_disease">check for chicken disease</string>
+    <string name="schedule_chicken_vaccination">schedule chicken vaccination</string>
+</resources>
