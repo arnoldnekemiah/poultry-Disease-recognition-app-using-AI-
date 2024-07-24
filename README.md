@@ -1,6 +1,9 @@
 # poultry-Disease-recognition-app-using-AI-
 This application was made using java and python (Machine Learning)
 
+![Screenshot_20230130-000912_Poultry disease identifier](https://github.com/user-attachments/assets/ea838cd0-8d68-4ad6-9447-0c5ee0c491b7)
+
+
 **Test Cases**
 
 ![image](https://github.com/arnoldnekemiah/poultry-Disease-recognition-app-using-AI-/assets/42886828/44b16d47-349d-43d8-b169-d21f1e01ac74)
